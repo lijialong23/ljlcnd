@@ -4,6 +4,7 @@
 
 
 var home ==45
+var index ==23
 我是创建者
 
 my  work我是中间这ing starting bbs niubide rensheng buxuyaojieshi不要错戳
