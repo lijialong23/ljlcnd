@@ -5,7 +5,11 @@
 
 
 我是创建者
+<<<<<<< HEAD
 my  work我是中间这ing starting bbs niubide rensheng buxuyaojieshi不要错戳
+=======
+my  working star我许ting bbs niubide rensheng buxuyaojieshi这是不可能的
+>>>>>>> b43fc4b1b94b21704991a82ab3cc743a1fe3b1cd
 
 
 
